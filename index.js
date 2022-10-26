@@ -62,7 +62,7 @@ let imageArray = [
     {
         name: "emoji",
         img : "images/emoji.jpg"
-    },
+    }
 ]
 
 imageArray.sort(()=>0.5-Math.random())
